@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "channels": [
+    {
+      "name": "Echourouk New",
+      "logoUrl": "",
+      "urls": [
+        "http://195.154.118.123/sami2222/sami2221/45"
+      ]
+    },
+    {
+      "name": "ECHOUROK TV",
+      "logoUrl": "",
+      "urls": [
+        "http://195.154.118.123/sami2222/sami2221/6"
+      ]
+    },
+    {
+      "name": "ENAHAR",
+      "logoUrl": "",
+      "urls": [
+        "http://goldtvhd.tv:8080/43291HFH47HJL5/F98YUY24W6/665017045"
+      ]
+    },
+    {
+      "name": "Samira TV",
+      "logoUrl": "",
+      "urls": [
+        "http://ibo.lynxiptv.com/live/232978944953/jcj7t1pzfd6r/160552.m3u8",
+        "http://starshare.net/live/CVCVCVCV/CV1CV1CV1/319325.ts"
+      ]
+    },
+    {
+      "name": "El 24News",
+      "logoUrl": "",
+      "urls": [
+        "http://apk.arabic-ch.space/live/091/index.m3u8",
+        "https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8",
+        "https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_720p/chunks.m3u8"
+      ]
+    },
+    {
+      "name": "El Hayat",
+      "logoUrl": "",
+      "urls": [
+        "http://ibo.lynxiptv.com/live/232978944953/jcj7t1pzfd6r/70305.m3u8",
+        "http://starshare.net/live/CVCVCVCV/CV1CV1CV1/319342.ts"
+      ]
+    },
+    {
+      "name": "El Bilad",
+      "logoUrl": "",
+      "urls": [
+        "http://apk.arabic-ch.space/live/009/index.m3u8",
+        "http://ibo.lynxiptv.com/live/232978944953/jcj7t1pzfd6r/1952.m3u8"
+      ]
+    },
+    {
+      "name": "El Fajr",
+      "logoUrl": "",
+      "urls": [
+        "http://apk.arabic-ch.space/live/018/index.m3u8"
+      ]
+    },
+    {
+      "name": "Zahra TV",
+      "logoUrl": "",
+      "urls": [
+        "http://ibo.lynxiptv.com/live/232978944953/jcj7t1pzfd6r/154630.m3u8"
+      ]
+    },
+    {
+      "name": "Bahia TV",
+      "logoUrl": "",
+      "urls": [
+        "http://195.154.118.123/sami2222/sami2221/14",
+        "http://starshare.net:8080/live/CVCVCVCV/CV1CV1CV1/319331.ts"
+      ]
+    },
+    {
+      "name": "Algeria 1",
+      "logoUrl": "",
+      "urls": [
+        "http://ibo.lynxiptv.com/live/232978944953/jcj7t1pzfd6r/70316.m3u8",
+        "http://starshare.net:8080/live/CVCVCVCV/CV1CV1CV1/319320.ts",
+        "http://apk.arabic-ch.space/live/016/index.m3u8",
+        "http://195.154.118.123/sami2222/sami2221/3"
+      ]
+    },
+    {
+      "name": "Algeria 2",
+      "logoUrl": "",
+      "urls": [
+        "http://ibo.lynxiptv.com/live/232978944953/jcj7t1pzfd6r/120.m3u8",
+        "http://starshare.net/live/CVCVCVCV/CV1CV1CV1/319321.ts"
+      ]
+    },
+    {
+      "name": "Algeria 3",
+      "logoUrl": "",
+      "urls": [
+        "http://195.154.118.123/sami2222/sami2221/4",
+        "http://apk.arabic-ch.space/live/002/index.m3u8"
+      ]
+    },
+    {
+      "name": "Algeria 4",
+      "logoUrl": "",
+      "urls": [
+        "http://195.154.118.123/sami2222/sami2221/16"
+      ]
+    },
+    {
+      "name": "Algeria 5",
+      "logoUrl": "",
+      "urls": [
+        "http://ibo.lynxiptv.com/live/232978944953/jcj7t1pzfd6r/2713.m3u8",
+        "http://195.154.118.123/sami2222/sami2221/17"
+      ]
+    },
+    {
+      "name": "Algeria 6",
+      "logoUrl": "",
+      "urls": [
+        "http://ibo.lynxiptv.com/live/232978944953/jcj7t1pzfd6r/60232.m3u8"
+      ]
+    },
+    {
+      "name": "Algeria 7",
+      "logoUrl": "",
+      "urls": [
+        "http://195.154.118.123/sami2222/sami2221/24.ts"
+      ]
+    },
+    {
+      "name": "Algeria 8",
+      "logoUrl": "",
+      "urls": [
+        "http://starshare.net:8080/live/CVCVCVCV/CV1CV1CV1/319339.ts"
+      ]
+    },
+    {
+      "name": "RT Arabic",
+      "logoUrl": "",
+      "urls": [
+        "https://rt-arb.rttv.com/live/rtarab/playlist.m3u8",
+        "https://rt-arb.rttv.com/dvr/rtarab/playlist_1600Kb.m3u8"
+      ]
+    },
+    {
+      "name": "Al Arabiya",
+      "logoUrl": "",
+      "urls": [
+        "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8"
+      ]
+    }
+  ]
+}
